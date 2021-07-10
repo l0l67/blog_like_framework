@@ -17,4 +17,4 @@ root/
       ↳ you html files here...
 ```
 
-(The port for the webserver can be changed by editing this line: ```app.listen(8888)```)
+The port for the webserver can be changed by editing this line: ```app.listen(8888)```
